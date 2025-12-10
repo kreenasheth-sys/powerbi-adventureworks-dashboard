@@ -49,7 +49,7 @@ Customer segmentation and revenue contribution are used to identify high-value c
 ---
 
 ## Live Power BI Dashboard
-[View the interactive Power BI dashboard][PASTE_POWER_BI_SERVICE_LINK_HERE](https://app.powerbi.com/groups/me/reports/8cf33330-f6c5-4794-9f8e-b8fe85c7f864/65f078d0c678d56138b6?redirectedFromSignup=1&experience=power-bi)
+[View the interactive Power BI dashboard](https://app.powerbi.com/groups/me/reports/8cf33330-f6c5-4794-9f8e-b8fe85c7f864/65f078d0c678d56138b6?redirectedFromSignup=1&experience=power-bi)
 ---
 
 ## Dashboard Walkthrough
