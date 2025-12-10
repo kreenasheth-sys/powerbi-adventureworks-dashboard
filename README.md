@@ -1,5 +1,5 @@
 # Summary
-Interactive Power BI dashboard built using the Microsoft Power BI Desktop course offered by the Maven Analytics team on Udemy. TThe project was a business intelligence assignment, where the management of a global manufacturing company that produces cycling equipment and accessories wants to track it’s key performance indicators (sales, profits, revenues and returns).
+Interactive Power BI dashboard built using the Microsoft Power BI Desktop course offered by the Maven Analytics team on Udemy. The project was a business intelligence assignment, where the management of a global manufacturing company that produces cycling equipment and accessories wants to track it’s key performance indicators (sales, profits, revenues and returns).
 
 The goals were to;
 
